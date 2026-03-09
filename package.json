@@ -1,0 +1,16 @@
+{
+  "devDependencies": {
+    "wp-pwa": "latest"
+  },
+  "scripts": {
+    "dev": "wp-pwa dev",
+    "start": "wp-pwa dev",
+    "preview": "wp-pwa preview",
+    "build": "wp-pwa build"
+  },
+  "dependencies": {
+    "build": "^0.1.4",
+    "npm": "^11.7.0",
+    "run": "^1.5.0"
+  }
+}
